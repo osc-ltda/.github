@@ -1,8 +1,8 @@
-# OSCX - Engineering and Software Solutions
+# OSC - Engineering and Software Solutions
 
 [**oscx.cl**](https://www.oscx.cl/)
 
-OSCX is a specialized software production company focused on full-stack development, data engineering, and artificial intelligence applied to real business problems. We deliver fast, quality solutions with a focus on impact.
+OSC is a specialized software production company focused on full-stack development, data engineering, and artificial intelligence applied to real business problems. We deliver fast, quality solutions with a focus on impact.
 
 ## 🚀 What We Do
 
